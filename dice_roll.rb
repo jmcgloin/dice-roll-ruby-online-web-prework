@@ -1,3 +1,3 @@
-def extract_locale_from_tld
+def roll
   rand(1..6)
 end
